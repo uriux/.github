@@ -1,0 +1,9 @@
+{
+    "name": "Static Site CI/CD",
+    "description": "Template for building, testing, and deploying static websites.",
+    "iconName": "uriux-logo",
+    "categories": [
+        "Typescript",
+        "React"
+    ]
+}
